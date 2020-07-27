@@ -1,3 +1,6 @@
 [submodule "navigation-js-puro"]
 	path = navigation-js-puro
 	url = https://github.com/juniorwmr/navigation-js-puro
+[submodule "pagination-js-puro"]
+	path = pagination-js-puro
+	url = https://github.com/juniorwmr/pagination-js-puro
